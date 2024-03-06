@@ -2,4 +2,5 @@
 .vscode/
 protoc
 protoc-gen-go
+gen_proto.sh
 protoc-go-inject-tag
