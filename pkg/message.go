@@ -20,7 +20,7 @@ import (
 	_ "embed"
 	"fmt"
 
-	"github.com/KrasikovA/go-pst/v6/pkg/properties"
+	"github.com/Lempi-sudo/go-pst/v6/pkg/properties"
 	"github.com/pkg/errors"
 	"github.com/rotisserie/eris"
 	"github.com/tinylib/msgp/msgp"

@@ -19,7 +19,7 @@ package pst
 import (
 	"io"
 
-	"github.com/KrasikovA/go-pst/v6/pkg/properties"
+	"github.com/Lempi-sudo/go-pst/v6/pkg/properties"
 
 	"github.com/rotisserie/eris"
 )

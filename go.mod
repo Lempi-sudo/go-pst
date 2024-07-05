@@ -1,4 +1,4 @@
-module github.com/KrasikovA/go-pst/v6
+module github.com/Lempi-sudo/go-pst/v6
 
 go 1.20
 
